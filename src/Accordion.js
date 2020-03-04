@@ -1,6 +1,6 @@
 import React, {Component} from 'react'
 
-export default class Acordion extends Component {
+export default class Accordion extends Component {
 static defaultProps = {
   sections: [
     {
